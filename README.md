@@ -1,7 +1,7 @@
 # WordleProject
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *Project Wordle!!!*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jamal Goodman**
 
 **Project Wordle!!!** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
